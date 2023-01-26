@@ -21,7 +21,6 @@ class Solution {
 
                 if (!map.containsKey(node))
                     continue;
-                // Loop over neighbors of popped node.
                 for (int[] e : map.get(node)) {
                     int neighbour = e[0];
                     int price = e[1];
