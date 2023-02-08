@@ -6,14 +6,7 @@ class Solution {
                 nums1[i] = nums1[index1];
                 i--;
                 index1--;
-            }else if(nums2[index2] > nums1[index1]){
-                nums1[i] = nums2[index2];
-                i--;
-                index2--;
             }else{
-                nums1[i] = nums1[index1];
-                i--;
-                index1--;
                 nums1[i] = nums2[index2];
                 i--;
                 index2--;
