@@ -9,27 +9,22 @@
  * }
  */
 class Solution {
+    private ListNode nextNode;
     public ListNode reverseBetween(ListNode head, int left, int right) {
-        if(head == null ) return head;
-        ListNode curr = head, prev = null, next = null;
-        for(int i = 1; i < left ; i++){
-            prev = curr;
-            curr = curr.next;
+        if(left == 1){
+            return reverseList(head, right);
         }
-        ListNode before = prev,end = curr;
-        for(int i = left; i <= right; i++){
-            next = curr.next;
-            curr.next= prev;
-            prev = curr;
-            curr = next;
-        }
-        end.next = curr;
-        if(before != null){
-            before.next = prev;
-        }else{
-            head = prev;
-        }
+        head.next = reverseBetween(head.next, left - 1, right - 1);
         return head;
     }
-    
+    public ListNode reverseList(ListNode head, int right) {
+        if(right == 1){
+            nextNode = head.next;
+            return head;
+        }
+        ListNode answer = reverseList(head.next, right - 1);
+        head.next.next = head;
+        head.next = nextNode;
+        return answer;
+    }
 }
