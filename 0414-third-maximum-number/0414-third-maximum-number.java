@@ -1,16 +1,13 @@
 class Solution {
     public int thirdMax(int[] nums) {
-        Arrays.sort(nums);
-        int count = 0;
-        int prev = nums[nums.length - 1];
-        for(int i = nums.length - 2; i>= 0; i--){
-            
-            if (nums[i] != prev){
-                prev = nums[i];
-                count++;
-                if(count == 2) return nums[i];
-            }
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        for(Integer num : nums){
+            if(!pq.contains(num)) pq.add(num);
+            if(pq.size() > 3) pq.poll();
         }
-        return nums[nums.length - 1];
+        if(pq.size() < 3){
+            while(pq.size() > 1) pq.poll();
+        }
+        return pq.poll();
     }
 }
