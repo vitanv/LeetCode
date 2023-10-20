@@ -12,8 +12,6 @@ class Solution {
         curs.add(0);
         Set<Integer> visited = new HashSet<>();
         int step = 0;
-
-        // when current layer exists
         while (!curs.isEmpty()) {
             List<Integer> nex = new LinkedList<>();
 
