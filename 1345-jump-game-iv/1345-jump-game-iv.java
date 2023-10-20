@@ -18,7 +18,6 @@ class Solution {
             List<Integer> nex = new LinkedList<>();
 
             for (int node : curs) {
-                // check if reached end
                 if (node == n - 1) {
                     return step;
                 }
