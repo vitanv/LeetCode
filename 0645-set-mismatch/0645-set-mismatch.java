@@ -1,12 +1,14 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        int sum = 0, sqsum = 0;
+        int missing = 0, extra = 0;
+        int[] arr = new int[nums.length + 1];
         for(int i = 0; i < nums.length; i++){
-            sum += nums[i] - (i + 1);
-            sqsum += nums[i]* nums[i] - ((i+1)*(i+1));
+            arr[nums[i]]++;
         }
-        int diff = sum;
-        sum = sqsum/sum;
-        return new int[]{(sum+diff)/2,sum - ((sum+diff)/2)};
+        for(int i = 1; i < arr.length; i++){
+            if(arr[i] == 0) missing = i;
+            if(arr[i] == 2) extra = i; 
+        }
+        return new int[]{extra, missing};
     }
 }
