@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/vitanv/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/vitanv/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [1861-rotating-the-box](https://github.com/vitanv/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/vitanv/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/vitanv/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [1861-rotating-the-box](https://github.com/vitanv/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/vitanv/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/vitanv/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [1861-rotating-the-box](https://github.com/vitanv/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/vitanv/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 <!---LeetCode Topics End-->
