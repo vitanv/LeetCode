@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/vitanv/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vitanv/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vitanv/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vitanv/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vitanv/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vitanv/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vitanv/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
