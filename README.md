@@ -22,12 +22,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vitanv/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vitanv/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vitanv/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vitanv/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/vitanv/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/vitanv/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/vitanv/LeetCode/tree/main/0788-rotated-digits/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vitanv/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
