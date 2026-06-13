@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vitanv/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vitanv/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/vitanv/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/vitanv/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/vitanv/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vitanv/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vitanv/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/vitanv/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/vitanv/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vitanv/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/vitanv/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/vitanv/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
