@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/vitanv/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vitanv/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vitanv/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vitanv/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/vitanv/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1345-jump-game-iv](https://github.com/vitanv/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vitanv/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vitanv/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/vitanv/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vitanv/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -151,4 +153,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vitanv/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/vitanv/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
