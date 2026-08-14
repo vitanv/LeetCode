@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vitanv/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vitanv/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vitanv/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vitanv/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vitanv/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/vitanv/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String Matching
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vitanv/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vitanv/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/vitanv/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vitanv/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vitanv/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vitanv/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vitanv/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vitanv/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
