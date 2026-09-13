@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vitanv/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/vitanv/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/vitanv/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0835-image-overlap](https://github.com/vitanv/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1140-stone-game-ii](https://github.com/vitanv/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/vitanv/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/vitanv/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/vitanv/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0835-image-overlap](https://github.com/vitanv/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1861-rotating-the-box](https://github.com/vitanv/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/vitanv/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 ## Linked List
